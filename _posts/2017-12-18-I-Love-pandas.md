@@ -4,10 +4,10 @@ title: I love Pandas
 tags: [python, data analysis, visualization]
 ---
 
-<p style="text-align:justify">Today I'm writing about Pandas in Python! I've used the Pandas library a few times and I find it incredibly useful to handle all data wrangling tasks...there's so much you can do with Pandas that I've only scratched the surface. So I'm going to demonstrate a few of its features here so that I keep forgetting for the lack of practice. So what I'm going to go at this data set with Pandas!</p>
+<p style="text-align:justify">Today I'm writing about Pandas in Python! I've used the Pandas library a few times and I find it incredibly useful to handle all data wrangling tasks...there's so much you can do with Pandas that I've only scratched the surface. So I'm going to demonstrate a few of its features here so that I keep forgetting for the lack of practice.</p>
 
 <script src="https://gist.github.com/adikamath/c1faad82b66c12e01a6a063b7a923012.js"></script>
-<br>
+
 <p style="text-align:justify">So there you have it, a quick introduction to some very useful operations using python pandas. If you are new to pandas, I hope this has sparked your curiosity to learn more about it and if you're already familiar with using pandas, I hope that you've enjoyed my take on using pandas. Either way please leave questions and/ or comments. I will be back with more posts very soon!
 
 <h1>References</h1>
@@ -19,3 +19,4 @@ tags: [python, data analysis, visualization]
 <div><a href = "https://chrisalbon.com/python/pandas_apply_operations_to_groups.html">Chris Albon's pandas group operations tutorial</a></div>
 <div><a href = "http://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/">Shane Lynn's tutorial on pandas grouping & aggregation</a></div>
 </div>
+<p></p>
