@@ -4,6 +4,8 @@ title: Interactive Plotting With Bokeh
 tags: [python, visualization]
 ---
 
+I've been exploring the various visualization packages available for Python and one that caught my eye was Bokeh, mainly for it's simplicity of use. This post is all about how to quickly setup an interactive 'web-ready' visualization and the inspiration for this comes from the popular TED talk that *** delivered and several blogs that have recreated his work. 
+
 <div>
 <html lang="en">
     <head>
