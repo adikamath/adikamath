@@ -77,9 +77,12 @@ tags: [python, visualization]
 </html>
 </div>
 
+<p style="text-align:justify;">I've included the code for data preparation and for creating the plots in the IPython notebook below.</p>
+
+<script src="https://gist.github.com/adikamath/8f3bbc99b71e438a20e7987184f0fb2d.js"></script>
+
 <h1>References</h1>
 <div>
-
 <div>
 <a href="https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare">Hans Rosling: The best stats you've ever seen</a></div>
 <div></div>
