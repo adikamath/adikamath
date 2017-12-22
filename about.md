@@ -5,8 +5,14 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
+This is Aditya Kamath's little online notebook. I am an Industrial Engineer by profession and like everything to do with travel, photography, music and for quite sometime now, tinkering with data. I hold a Bachelor's and a Master's Degree in Industrial Engineering and currently live in Tampa, Florida.
+
+Over the last couple of years, I've read extensively about data science mainly on other's blogs, learned and tried learning a bunch of different data science tools and all that I've ended up with is a bunch of text files with code, some that worked while others, mostly containing broken code and just lying there consuming my computers memory. Frustrated, I decided to turn back to my old hobby of travel writing and then decided to document my learnings through this blog! After struggling with several different themes, I've finally been able to setup this site. I will continue posting on interesting topics I find as I scour the internet.
+
+I hope that you enjoy my posts and that you will leave me your thoughts and comments to ponder over!
+
+----
+
+<h1>About the site</h1>
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Designed By [Rohan Chandra](https://rohanchandra.github.io/project/type/).
