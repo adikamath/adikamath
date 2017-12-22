@@ -7,7 +7,6 @@ tags: [python, visualization]
 <p style="text-align:justify;">I've been exploring the various visualization packages available for Python and one that caught my eye was Bokeh, mainly for it's simplicity of use. This post is all about how to quickly setup an interactive 'web-ready' visualization and the inspiration for this comes from the popular TED talk that Hans Rosling delivered (link below) and several blogs that have attempted to recreate his work.
 </p>
 
-<div>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -76,7 +75,6 @@ tags: [python, visualization]
           })();
         </script>
     </body>
-</div>
 
 <script src="https://gist.github.com/adikamath/3e9c3f44d43ea6da83de7879c741d27e.js"></script>
 
