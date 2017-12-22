@@ -77,9 +77,10 @@ tags: [python, visualization]
     </body>
 
 <p></p>
+<p></p>
 <script src="https://gist.github.com/adikamath/3e9c3f44d43ea6da83de7879c741d27e.js"></script>
 <p></p>
-
+<p></p>
 <h1>References</h1>
 <div>
 <div>
