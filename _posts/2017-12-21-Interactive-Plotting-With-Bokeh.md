@@ -80,8 +80,11 @@ tags: [python, visualization]
 <p style="text-align:justify;">Since the dataset to create the above plot isn't readily available, you need to download a number of different data sets and then merge them to get the required dataset. You can find most of the data on the Gapminder website <a href="https://www.gapminder.org/data/">here</a>. In any case, I've included the specific links below:</p>
 
 <a href="https://docs.google.com/spreadsheet/pub?key=0ArfEDsV3bBwCdE5xWmcyYVZJQzJvOFpZUklqX3lkSkE&output=xlsx">Income Per Person Dataset</a>
+<p></p>
 <a href="https://docs.google.com/spreadsheet/pub?key=phAwcNAVuyj2tPLxKvvnNPA&output=xlsx">Life Expectancy Dataset</a>
+<p></p>
 <a href="https://docs.google.com/spreadsheet/pub?key=phAwcNAVuyj0XOoBL_n5tAQ&output=xlsx">Population Dataset</a>
+<p></p>
 <a href="https://github.com/mledoze/countries/blob/master/dist/countries.csv">Countries & Regions Dataset</a>
 <p></p>
 
