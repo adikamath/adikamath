@@ -4,8 +4,7 @@ title: Interactive Plotting With Bokeh
 tags: [python, visualization]
 ---
 
-<p style="text-align:justify;">I've been exploring the various visualization packages available for Python and one that caught my eye was Bokeh, mainly for it's simplicity of use. This post is all about how to quickly setup an interactive 'web-ready' visualization and the inspiration for this comes from the popular TED talk that Hans Rosling delivered (link below) and several blogs that have attempted to recreate his work.
-</p>
+<p style="text-align:justify;">I've been exploring the various visualization packages available for Python and one that caught my eye was Bokeh, mainly for it's simplicity of use. This post is all about how to quickly setup an interactive 'web-ready' visualization and the inspiration for this comes from the popular TED talk that Hans Rosling delivered (link below) and several blogs that have attempted to recreate his work.</p>
 
 <html lang="en">
     <head>
@@ -78,6 +77,14 @@ tags: [python, visualization]
 
 <p></p>
 <p></p>
+<p style="text-align:justify;">Since the dataset to create the above plot isn't readily available, you need to download a number of different data sets and then merge them to get the required dataset. You can find most of the data on the Gapminder website [here](https://www.gapminder.org/data/). In any case, I've included the specific links below:
+
+[Income Per Person Dataset](https://docs.google.com/spreadsheet/pub?key=0ArfEDsV3bBwCdE5xWmcyYVZJQzJvOFpZUklqX3lkSkE&output=xlsx)
+[Life Expectancy Dataset](https://docs.google.com/spreadsheet/pub?key=phAwcNAVuyj2tPLxKvvnNPA&output=xlsx)
+[Population Dataset](https://docs.google.com/spreadsheet/pub?key=phAwcNAVuyj0XOoBL_n5tAQ&output=xlsx)
+[Countries & Regions Dataset](https://github.com/mledoze/countries/blob/master/dist/countries.csv)
+</p>
+
 <script src="https://gist.github.com/adikamath/3e9c3f44d43ea6da83de7879c741d27e.js"></script>
 <p></p>
 <p></p>
