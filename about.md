@@ -13,6 +13,6 @@ I hope that you enjoy my posts and that you will leave me your thoughts and comm
 
 ----
 
-<h1>About the site</h1>
+<h3>About the site</h3>
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 Designed By [Rohan Chandra](https://rohanchandra.github.io/project/type/).
