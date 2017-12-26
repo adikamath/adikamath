@@ -90,7 +90,7 @@ tags: [python, visualization]
 <script src="https://gist.github.com/adikamath/3e9c3f44d43ea6da83de7879c741d27e.js"></script>
 <p></p>
 <p></p>
-<h1>References</h1>
+<h2>References</h2>
 <div>
 <div>
 <a href="https://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?utm_campaign=tedspread--a&utm_medium=referral&utm_source=tedcomshare">Hans Rosling: The best stats you've ever seen</a></div>

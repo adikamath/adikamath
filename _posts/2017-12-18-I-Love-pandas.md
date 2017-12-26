@@ -10,7 +10,7 @@ tags: [python, data analysis, visualization]
 
 <p style="text-align:justify">So there you have it, a quick introduction to some very useful operations using python pandas. If you are new to pandas, I hope this has sparked your curiosity to learn more about it and if you're already familiar with using pandas, I hope that you've enjoyed my take on using pandas. Either way please leave questions and/ or comments. I will be back with more posts very soon!
 
-<h1>References</h1>
+<h2>References</h2>
 <p style="text-align:justify">My inspiration for these posts came from a couple of other blogs that I have been reading. I encourage you to also check out the following posts that talk about pandas:</p>
 
 <div>
