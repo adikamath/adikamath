@@ -96,12 +96,12 @@ e.calcdata.columnDragInProgress=!1,_(r,e,0),b(t,n,n.columns.map(function(t){retu
 <p style="text-align:justify">So there you have it, a quick introduction to some very useful operations using python pandas. If you are new to pandas, I hope this has sparked your curiosity to learn more about it and if you're already familiar with using pandas, I hope that you've enjoyed my take on using pandas. Either way please leave questions and/ or comments. I will be back with more posts very soon!
 
 <h2>Inspiration & References</h2>
-<p style="text-align:justify">My inspiration for these posts came from a couple of other blogs that I have been reading. I encourage you to also check out the following posts that talk about pandas:</p>
+<p style="text-align:justify">Check out these links for more information.</p>
 
 <div>
-<div><a href = "http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/">Greg Reda's pandas tutorial</a></div>
-<div><a href = "http://pbpython.com/pandas-pivot-table-explained.html">Chris Moffit's pandas pivot table tutorial</a></div>
-<div><a href = "https://chrisalbon.com/python/pandas_apply_operations_to_groups.html">Chris Albon's pandas group operations tutorial</a></div>
-<div><a href = "http://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/">Shane Lynn's tutorial on pandas grouping & aggregation</a></div>
+<div><a href = "https://www.cryptocompare.com/api/">CryptoCompare API</a></div>
+<div><a href = "https://www.cryptocompare.com/coins/guides/how-does-our-cryptocurrecy-index-work/">CryptoCompare Index</a></div>
+<div><a href = "https://medium.com/@agalea91/cryptocompare-api-quick-start-guide-ca4430a484d4">Alex Galea's Blog</a></div>
+<div><a href = "https://plot.ly/python/">Plotly For Python</a></div>
 </div>
 <p></p>
