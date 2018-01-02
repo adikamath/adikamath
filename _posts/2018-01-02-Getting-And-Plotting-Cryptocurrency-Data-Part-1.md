@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Getting And Plotting Cryptocurrency Data
-tags: [python, data analysis, visualization]
+title: Getting And Plotting Cryptocurrency Data: Part-1
+tags: [python, visualization]
 ---
 
-<p style="text-align:justify">Cryptocurrencies like Bitcoin and Ethereum are effortlessly making the headlines every week due to the meteoric rise in their prices. In this post, I show you how to use an API to get historical price data and visualize it.</p>
+<p style="text-align:justify">Cryptocurrencies like Bitcoin and Ethereum to name a few are effortlessly making the headlines every week thanks to the meteoric rise in their prices. Out of sheer curiosity to learn more about these currencies and the marketplaces where they are traded, in this first of many posts, I write about using API's to collect the data you need and then to visualize it.</p>
 
 <div>
 
@@ -96,8 +96,6 @@ e.calcdata.columnDragInProgress=!1,_(r,e,0),b(t,n,n.columns.map(function(t){retu
 <p style="text-align:justify">So there you have it, a quick introduction to some very useful operations using python pandas. If you are new to pandas, I hope this has sparked your curiosity to learn more about it and if you're already familiar with using pandas, I hope that you've enjoyed my take on using pandas. Either way please leave questions and/ or comments. I will be back with more posts very soon!
 
 <h2>Inspiration & References</h2>
-<p style="text-align:justify">Check out these links for more information.</p>
-
 <div>
 <div><a href = "https://www.cryptocompare.com/api/">CryptoCompare API</a></div>
 <div><a href = "https://www.cryptocompare.com/coins/guides/how-does-our-cryptocurrecy-index-work/">CryptoCompare Index</a></div>
