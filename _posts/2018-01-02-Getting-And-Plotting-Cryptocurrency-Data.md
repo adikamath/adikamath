@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting And Plotting Cryptocurrency Data: Part-1
+title: Getting And Plotting Cryptocurrency Data
 tags: [python, visualization]
 ---
 
