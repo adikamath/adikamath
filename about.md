@@ -5,7 +5,7 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-This is Aditya Kamath's little online notebook. I am an Industrial Engineer by profession and like everything to do with travel, photography, music and for quite sometime now, tinkering with data. I hold a Bachelor's and a Master's Degree in Industrial Engineering and currently live in Tampa, Florida.
+This is Aditya Kamath's little online notebook. I am an Industrial Engineer by profession and like everything to do with travel, photography, music and for quite sometime now, tinkering with data. I hold a Bachelor's and a Master's Degree in Industrial Engineering and currently live in San Jose, California.
 
 Over the last couple of years, I've read extensively about data science mainly on other's blogs, learned and tried learning a bunch of different data science tools and all that I've ended up with is a bunch of text files with code, some that worked while others, mostly containing broken code and just lying there consuming my computers memory. Frustrated, I decided to turn back to my old hobby of travel writing and then decided to document my learnings through this blog! After struggling with several different themes, I've finally been able to setup this site. I will continue posting on interesting topics I find as I scour the internet.
 
