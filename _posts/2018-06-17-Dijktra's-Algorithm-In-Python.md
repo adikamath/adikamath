@@ -36,3 +36,14 @@ Let's use an example to describe a problem and also to code it- you own a trucki
 </ol>
 
 <p>Let's code this!</p>
+
+<script src="https://gist.github.com/adikamath/04f021169eb3e7784b1f8554814fe61b.js"></script>
+
+<h2>References</h2>
+<p style="text-align:justify">Over the course of developing my own implementation of the Dijkstra's Algorithm, I scoured the internet for articles and references. Here are the posts that helped me the most:</p>
+
+<div>
+<div><a href = "https://www.youtube.com/watch?v=GazC3A4OQTE&t=112s">Dijkstra's Algorithm- Computerphile</a></div>
+<div><a href = "https://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/">Greedy Algorithms</a></div>
+</div>
+<p></p>
