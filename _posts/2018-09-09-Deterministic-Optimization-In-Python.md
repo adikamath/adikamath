@@ -6,7 +6,7 @@ tags: [python, linear programming, supply chain, scheduling, PuLP]
 
 <p style="text-align:justify">In this post, I explore the topic of linear programming, a very powerful deterministic optimization technique that is used for maximizing or minimizing an objective function that is constrained by a set of linear equations to form a feasible region. This post isn't going to delve into the basics of linear programming, rather, I wanted to show you how you can use Python and in specific, the PuLP modeler to formulate and solve a real-world optimization problem.</p>
 
-<script src="https://gist.github.com/adikamath/2e8b5b6282413dd57d8e0efb7e83aa79.js"></script>
+<script src="https://gist.github.com/adikamath/72812b2cc1d31a9d3670ded9a723d121.js"></script>
 
 <h3>Next Steps</h3>
 <p style="text-align:justify">Now that we've formulated and solved the linear program, let's talk about how we can make this more realistic. You could explore:</p>
@@ -23,4 +23,3 @@ tags: [python, linear programming, supply chain, scheduling, PuLP]
 <div><a href = "https://youtu.be/5I0mhX0973o">Caylie Cincera's Videos</a></div>
 <div><a href = "http://benalexkeen.com/linear-programming-with-python-and-pulp/">Ben Alex Keen's Blog</a></div>
 </div>
-<p></p>
