@@ -46,4 +46,4 @@ Let's use an example to describe a problem and also to code it- you own a trucki
 <div><a href = "https://www.youtube.com/watch?v=GazC3A4OQTE&t=112s">Dijkstra's Algorithm- Computerphile</a></div>
 <div><a href = "https://www.geeksforgeeks.org/greedy-algorithms-set-6-dijkstras-shortest-path-algorithm/">Greedy Algorithms</a></div>
 </div>
-<p></p>
+<p> </p>
