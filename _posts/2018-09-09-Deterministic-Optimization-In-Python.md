@@ -4,7 +4,9 @@ title: Deterministic Optimization In Python
 tags: [python, linear programming, supply chain, scheduling, PuLP]
 ---
 
-<p style="text-align:justify">In this post, I explore the topic of linear programming, a very powerful deterministic optimization technique that is used for maximizing or minimizing an objective function that is constrained by a set of linear equations to form a feasible region. This post isn't going to delve into the basics of linear programming, rather, I wanted to show you how you can use Python and in specific, the PuLP modeler to formulate and solve a real-world optimization problem.</p>
+<p style="text-align:justify">In this post, I explore the topic of linear programming, a very powerful deterministic optimization technique that is used for maximizing or minimizing an objective function that is constrained by a set of linear equations to form a feasible region. This post isn't going to delve into the basics of linear programming, rather, I wanted to show you how you can use Python and in specific, the PuLP modeler to formulate and solve a real-world optimization problem for scheduling jobs. The heatmaps below visualize the problem solution.</p>
+
+<img src= "/assets/img/multiPeriod.png">
 
 <script src="https://gist.github.com/adikamath/72812b2cc1d31a9d3670ded9a723d121.js"></script>
 
