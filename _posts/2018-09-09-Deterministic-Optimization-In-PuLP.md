@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deterministic Optimization In Python
+title: Deterministic Optimization In PuLP
 tags: [python, linear programming, supply chain, scheduling, PuLP]
 ---
 
