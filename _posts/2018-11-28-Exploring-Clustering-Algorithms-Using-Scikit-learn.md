@@ -8,7 +8,7 @@ tags: [python, machine learning, supply chain, scikit-learn]
 
 <img src= "/assets/img/clustering_pics.png">
 
-<script src="https://gist.github.com/adikamath/9e1052d9511235237f773635c8bddd97.js"></script>
+<script src="https://gist.github.com/adikamath/3fe3bf58c14dd813a7a6a9e8da0e95cf.js"></script>
 
 <h3>What's Next?</h3>
 <p style="text-align:justify">We've reached the end of this blog post having explored two clustering approaches in trying to solve a supply chain business case. In the process, we performed some data wrangling and preprocessing to prepare the data for clustering and also briefly looked at different ways of improving the clustering results. This analysis is by no means complete and you could explore different evaluation methods to see how effective the clusters that we've created are. The clusters are nothing but product families and the next step in the analysis pipleine might be forecasting demand for these families. So a natural question that arises is how does the type of clustering algorithm affect the 'forecastability' of your product families? Let me know what you think!</p>
