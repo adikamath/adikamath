@@ -20,7 +20,7 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
-  resume: "https://github.com/adikamath/adikamath.github.io/raw/master/aditya_kamath_resume.pdf"
+  resume: "https://adikamath.github.io/aditya_kamath_resume.pdf"
   rss: false
   email_address: "getintouch@adityakamath.com" #Full email address, e.g. "sam@example.com"
   behance:

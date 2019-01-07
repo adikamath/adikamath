@@ -14,10 +14,13 @@ I hope that you enjoy my posts and that you will leave me your thoughts and comm
 ### Resume
 ----
 
-You can find my resume [here](https://github.com/adikamath/adikamath.github.io/raw/master/aditya_kamath_resume.pdf).
+You can find my resume [here](adikamath.github.io/aditya_kamath_resume.pdf).
 
 ### About the site
 ----
 
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 Designed By [Rohan Chandra](https://rohanchandra.github.io/project/type/).
+
+        
+      
