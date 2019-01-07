@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
@@ -11,12 +11,13 @@ Over the last couple of years, I've read extensively about data science mainly o
 
 I hope that you enjoy my posts and that you will leave me your thoughts and comments to ponder over!
 
-----
-
 ### Resume
+----
 
 You can find my resume [here](https://adityakamath.com/Aditya_Kamath_Resume1_2018.pdf).
 
 ### About the site
+----
+
 Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
 Designed By [Rohan Chandra](https://rohanchandra.github.io/project/type/).
