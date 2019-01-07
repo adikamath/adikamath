@@ -14,7 +14,7 @@ I hope that you enjoy my posts and that you will leave me your thoughts and comm
 ### Resume
 ----
 
-You can find my resume [here](https://adityakamath.com/Aditya_Kamath_Resume1_2018.pdf).
+You can find my resume [here](https://github.com/adikamath/adikamath.github.io/raw/master/aditya_kamath_resume.pdf).
 
 ### About the site
 ----
